@@ -5,7 +5,7 @@ This project is a simple, responsive Order Summary Component Card designed to di
 
 ## Demo
 
-![Order Summary Component Card Screenshot](design/desktop-preview.jpg.png)  
+![Order Summary Component Card Screenshot](order-card/design/desktop-preview.jpg.png)  
 
 
 ## Features
